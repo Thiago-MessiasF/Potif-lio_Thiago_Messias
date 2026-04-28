@@ -51,14 +51,15 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeto Batalha de Modelo e Engenharia de Prompt** | Projeto de criação de sites e avaliação de desempenho de IA | [Ver Projeto](./Batalha-de-Modelos-&-Engenharia-de-Prompt/) |
+| **Projeto Laboratório de Classificação Visual** |  Neste projeto utilizamos a ferramenta Teachable Machine, que permite criar modelos 
+simples de Inteligência Artificial capazes de reconhecer imagens usando a câmera.  | [Ver Projeto](./Laboratório-de-Classificação-Visual/) |
+| **-** | - | - |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Projeti A Corrida do Prompt** |  Projeto desenolvido com prompts de IA | [Ver Projeto](./Projeto-A-Corrida-do-Prompt/) |
-| **Projeti A Corrida do Prompt** |  Projeto desenolvido com prompts de IA | [Ver Projeto](./Projeto-A-Corrida-do-Prompt/) |
-| **Projeti A Corrida do Prompt** |  Projeto desenolvido com prompts de IA | [Ver Projeto](./Projeto-A-Corrida-do-Prompt/) |
+| **Projeto Batalha de Modelo e Engenharia de Prompt** | Projeto de criação de sites e avaliação de desempenho de IA | [Ver Projeto](./Batalha-de-Modelos-&-Engenharia-de-Prompt/) |
 
  
 ---
