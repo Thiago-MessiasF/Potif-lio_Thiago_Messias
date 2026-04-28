@@ -51,12 +51,15 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
+| **Projeto Batalha de Modelo e Engenharia de Prompt** | Projeto de criação de sites e avaliação de desempenho de IA | [Ver Projeto](./Batalha-de-Modelos-&-Engenharia-de-Prompt/) |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **Projeti A Corrida do Prompt** |  Projeto desenolvido com prompts de IA | [Ver Projeto](./Projeto-A-Corrida-do-Prompt/) |
+| **Projeti A Corrida do Prompt** |  Projeto desenolvido com prompts de IA | [Ver Projeto](./Projeto-A-Corrida-do-Prompt/) |
+| **Projeti A Corrida do Prompt** |  Projeto desenolvido com prompts de IA | [Ver Projeto](./Projeto-A-Corrida-do-Prompt/) |
+
  
 ---
  
