@@ -70,10 +70,7 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
  
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
- 
-## 🗂️ Estrutura do Repositório
 
-Abaixo, a organização deste repositório para facilitar a navegação:
 
 ```
 Portfolio_Thiago_Messias/
