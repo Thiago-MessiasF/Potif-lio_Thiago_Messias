@@ -59,6 +59,8 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
 | **Projeti A Corrida do Prompt** |  Projeto desenolvido com prompts de IA | [Ver Projeto](./Projeto-A-Corrida-do-Prompt/) |
 | **Projeto Batalha de Modelo e Engenharia de Prompt** | Projeto de criação de sites e avaliação de desempenho de IA | [Ver Projeto](./Batalha-de-Modelos-&-Engenharia-de-Prompt/) |
 | **Projeto Laboratório de Classificação Visual** | Utilizamos a ferramenta Teachable Machine, capazes de reconhecer imagens usando a câmera.  | [Ver Projeto](./Laboratório-de-Classificação-Visual/) |
+| **Projeto Engenharia de Software e IA com Bubble.io** | Desenvolver uma aplicação web de gestão  | [Ver Projeto](./Engenharia-de-Software-e-IA-com-Bubble.io/) |
+| **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Integrar tecnologias de Inteligência Artificial generativa | [Ver Projeto](./Desenvolvimento-de-App-de-Videoconferência-com-Manus-AI-e-Jitsi/) |
 
  
 ---
