@@ -71,33 +71,40 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
  
+## 🗂️ Estrutura do Repositório
+
+Abaixo, a organização deste repositório para facilitar a navegação:
+
+```
 Portfolio_Thiago_Messias/
 │
 ├── README.md  ← principal
+│
 ├── Batalha-de-Modelos-&-Engenharia-de-Prompt/
 │   ├── README.md  ← desse projeto
-│   └── arquivos...
+│   └── arquivos/
 │
-├── Desenvolvimento-App-Videoconferência-Manus-AI-Jitsi/
-│   ├── README.md  ← desse projeto
-│   └── arquivos...
+├── Desenvolvimento-App-Videoconferência-Manus-AI-Itsiv/
+│   ├── README.md
+│   └── arquivos/
 │
 ├── Do-Clone-ao-Produto-Mínimo-Viável/
-│   ├── README.md  ← desse projeto
-│   └── arquivos...
+│   ├── README.md
+│   └── arquivos/
 │
 ├── Engenharia-Reversa/
-│   ├── README.md  ← desse projeto
-│   └── arquivos...
+│   ├── README.md
+│   └── arquivos/
 │
 ├── Engenharia-de-Software-e-IA-com-Bubble.io/
-│   ├── README.md  ← desse projeto
-│   └── arquivos...
+│   ├── README.md
+│   └── arquivos/
 │
 ├── Laboratório-de-Classificação-Visual/
-│   ├── README.md  ← desse projeto
-│   └── arquivos...
+│   ├── README.md
+│   └── arquivos/
 │
-├── Projeto-A-Corrida-do-Prompt/
-│   ├── README.md  ← desse projeto
-│   └── arquivos...
+└── Projeto-A-Corrida-do-Prompt/
+    ├── README.md
+    └── arquivos/
+```
