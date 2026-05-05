@@ -71,5 +71,33 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
  
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
+Portfolio_Thiago_Messias/
+│
+├── README.md  ← principal
+├── Batalha-de-Modelos-&-Engenharia-de-Prompt/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── Desenvolvimento-App-Videoconferência-Manus-AI-Jitsi/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── Do-Clone-ao-Produto-Mínimo-Viável/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── Engenharia-Reversa/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── Engenharia-de-Software-e-IA-com-Bubble.io/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── Laboratório-de-Classificação-Visual/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── Projeto-A-Corrida-do-Prompt/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
