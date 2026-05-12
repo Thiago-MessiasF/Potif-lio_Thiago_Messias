@@ -102,6 +102,14 @@ Portfolio_Thiago_Messias/
 │   └── arquivos/
 │
 └── Projeto-A-Corrida-do-Prompt/
-    ├── README.md
-    └── arquivos/
+│      ├── README.md
+│      └── arquivos/
+│      
+├── SM7_Desenvolvimento_App_Videoconferência_Manus_AI_Jitsi/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
+│
+├── SM8_Composição_Musical_Assistida_Inteligência_Artificial/
+│   ├── README.md  ← desse projeto
+│   └── arquivos...
 ```
