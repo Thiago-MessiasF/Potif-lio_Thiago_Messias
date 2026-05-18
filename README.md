@@ -53,13 +53,13 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Projeti A Corrida do Prompt** |  Projeto desenolvido com prompts de IA | [Ver Projeto](./Projeto-A-Corrida-do-Prompt/) |
-| **Projeto Batalha de Modelo e Engenharia de Prompt** | Projeto de criação de sites e avaliação de desempenho de IA | [Ver Projeto](./Batalha-de-Modelos-&-Engenharia-de-Prompt/) |
-| **Projeto Laboratório de Classificação Visual** | Utilizamos a ferramenta Teachable Machine, capazes de reconhecer imagens usando a câmera.  | [Ver Projeto](./Laboratório-de-Classificação-Visual/) |
-| **Projeto Engenharia de Software e IA com Bubble.io** | Desenvolver uma aplicação web de gestão  | [Ver Projeto](./Engenharia-de-Software-e-IA-com-Bubble.io/) |
-| **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Integrar tecnologias de Inteligência Artificial generativa | [Ver Projeto](./Desenvolvimento-de-App-de-Videoconferência-com-Manus-AI-e-Jitsi/) |
-| **Engenharia-Reversa** | Nesta atividade, aassumi a posição de Desenvolvedor um Software assistido por IA| [Ver Projeto](./Engenharia-Reversa/) |
-| **Do Clone ao Produto Mínimo Viável** |Evoluir a prática de engenharia reversa para a fase de inovação e diferenciação competitiva| [Ver Projeto](./Do-Clone-ao-Produto-Mínimo-Viável/) |
+| **SM1 - A Corrida do Prompt** |  Projeto desenolvido com prompts de IA | [Ver Projeto](./Projeto-A-Corrida-do-Prompt/) |
+| **SM2 - Laboratório de Classificação Visual** | Utilizamos a ferramenta Teachable Machine, capazes de reconhecer imagens usando a câmera.  | [Ver Projeto](./Laboratório-de-Classificação-Visual/) |
+| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Projeto de criação de sites e avaliação de desempenho de IA | [Ver Projeto](./Batalha-de-Modelos-&-Engenharia-de-Prompt/) |
+| **SM4 - Engenharia Reversa** | Nesta atividade, aassumi a posição de Desenvolvedor um Software assistido por IA| [Ver Projeto](./Engenharia-Reversa/) |
+ **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)** |Evoluir a prática de engenharia reversa para a fase de inovação e diferenciação competitiva| [Ver Projeto](./Do-Clone-ao-Produto-Mínimo-Viável/) |
+| **SM6 - Engenharia de Software e IA com Bubble.io** | Desenvolver uma aplicação web de gestão  | [Ver Projeto](./Engenharia-de-Software-e-IA-com-Bubble.io/) |
+| **SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Integrar tecnologias de Inteligência Artificial generativa | [Ver Projeto](./Desenvolvimento-de-App-de-Videoconferência-com-Manus-AI-e-Jitsi/) |
 
 
  
