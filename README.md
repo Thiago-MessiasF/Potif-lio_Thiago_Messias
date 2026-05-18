@@ -48,7 +48,6 @@ Atualmente cursando o [2º] período de [Analise e Desenvolvimento de Sistemas] 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 
-| **-** | - | - |
  
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
